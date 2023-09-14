@@ -4,10 +4,10 @@
 
 # Curso : Familiarízate con los principios básicos de la programación
 * Concepto
-* Web
-* Internet
-* Programacion
-* Funcionamiento
-
+* Web 🚀
+* Internet 🖥️
+* Programacion 👩‍💻
+* Funcionamiento 🐙
 # Topics del curso Familiarízate con los principios básicos de la programación/Introduccion al codigo
-* Clase 1 ✅
+* Clase 1 ✅ (Internet VS Web)
+* Clase 2 ✅ (Lenguajes de alto y bajo nivel) (JavaScript 💛)
